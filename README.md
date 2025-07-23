@@ -13,6 +13,6 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages**: Java, C++, Python, HTML, CSS, JS  
+**Languages**: Java, C++, Python, HTML, CSS, JS , C#, C 
 **Tools**: Git, VS Code, NetBeans, Hibernate, MySQL  
 **Areas**: Web Dev | DSA | OS | Game Dev | IoT
