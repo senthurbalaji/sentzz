@@ -1,5 +1,5 @@
 # sentzz
-# Hi 👋, I'm Sendhoor Balaji
+# Hi 👋, I'm Senthur Balaji
 
 🎓 CS student passionate about coding, system design, and emerging tech.
 
