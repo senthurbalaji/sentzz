@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sendhoor Balaji!
+# 👋 Hi there, I'm Senthur Balaji!
 
 🎓 I'm a Computer Science student passionate about full-stack development, system design, and building innovative solutions that blend hardware and software.
 
