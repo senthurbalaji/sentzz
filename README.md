@@ -27,15 +27,7 @@
 
 ---
 
-## 📌 Pinned Projects (Suggestions)
 
-- 🔧 `movie-hibernate-app` – Full CRUD app using HTML + Servlet + Hibernate  
-- 🌐 `front-end-web-internship` – Responsive website built during internship  
-- 🧠 `design-analysis-algorithms` – DAA concepts with C++ code and explanations  
-- 🧩 `os-concepts-and-examples` – 16-mark theory answers + C programs  
-- ⚡ `energy-gym-prototype` – Renewable energy harvesting project (IoT + Hardware)  
-
----
 
 ## 🧠 Currently Learning
 - `Spring Boot`
