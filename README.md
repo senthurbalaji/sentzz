@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Senthur%20Balaji%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Build%20Secure.%20Build%20Scalable.%20Build%20Smart.&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:1F6FEB&text=Senthur%20Balaji%20K&fontColor=FFFFFF&fontSize=50&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20and%20Design%20Student%20•%20Full%20Stack%20Developer%20•%20Frontend%20Designer&descAlignY=58" width="100%"/>
+
 
 <div align="center">
 
