@@ -13,8 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://miro.medium.com/1*LKx4KERu8OkRFySU6KpI4w.gif"/>
-
 ```java
 public class Developer {
 
