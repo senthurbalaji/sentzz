@@ -128,16 +128,6 @@ public class Developer {
 
 </div>
 
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=senthurbalaji&theme=onedark" />
-
-</div>
 ---
 
 ## 💼 Work Experience
