@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Senthur+Balaji+K+%F0%9F%91%8B;Computer+Science+and+Design+Student;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Designer+%F0%9F%8E%A8;Passionate+About+Building+Modern+Web+Applications)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Senthur+Balaji+K+%F0%9F%91%8B;Computer+Science+and+Design+Student;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Designer+%F0%9F%8E%A8;Passionate+About+Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
@@ -107,7 +105,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=senthurbalaji&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senthurbalaji&theme=tokyonight" />
 
 </div>
 ---
@@ -119,7 +117,6 @@ public class Developer {
 <img src="https://streak-stats.demolab.com?user=senthurbalaji&theme=tokyonight&hide_border=true" />
 
 </div>
-
 
 ---
 
@@ -138,10 +135,9 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=senthurbalaji&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=senthurbalaji&theme=onedark" />
 
 </div>
-
 ---
 
 ## 💼 Work Experience
@@ -177,20 +173,17 @@ public class Developer {
 
 ---
 
+
 ## 🏅 Achievements
 
-<div align="center">
-|     | Achievement                     | Details                                                                                                                                            |
-| :-: | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  🏆 | **Idea Fusion 2024 Winner**     | Secured **1st Prize** at Idea Fusion 2024 organized by Karpagam Innovation Centre (KIC) for innovative project development and presentation        |
-|  🎓 | **Academic Excellence**         | Maintaining a CGPA of **8.6 / 10.0** in B.E. Computer Science and Design at Karpagam College of Engineering                                        |
-|  💼 | **Client Project Delivery**     | Successfully developed and delivered the **Mugan Foundation Admissions Management System**, a comprehensive CRM and student admission platform     |
-| 🛡️ | **Security Engineering**        | Built a web vulnerability scanner capable of identifying multiple security risks including XSS, SQL Injection, CSRF, and authentication flaws      |
-|  🚀 | **Full Stack Development**      | Developed enterprise-grade web applications using **Spring Boot, React, MySQL, MongoDB, and Docker** with responsive UI and secure authentication  |
-|  📚 | **Professional Certifications** | Completed multiple industry-oriented courses through **ICT Academy**, **NPTEL**, and internship-based learning programs                            |
-|  💻 | **Web Development Internship**  | Completed a Web Development Internship at **Elusium Academy**, gaining hands-on experience in frontend development and responsive web applications |
+* 🏆 **Idea Fusion 2024 Winner** – 1st Prize at Karpagam Innovation Centre
+* 🎓 **CGPA 8.6 / 10.0** – B.E. Computer Science and Design
+* 💼 **Client Project Delivery** – Mugan Foundation Admissions Management System
+* 🛡️ **Security Engineering** – Developed a Web Vulnerability Scanner
+* 🚀 **Full Stack Developer** – Spring Boot, React, MySQL, MongoDB & Docker
+* 📚 **Professional Certifications** – ICT Academy, NPTEL & Industry Courses
+* 💻 **Web Development Intern** – Elusium Academy
 
-</div>
 
 ---
 
