@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CS%20%26%20Design%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Quantum%20Researcher%20%7C%20Security%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://img.magnific.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?semt=ais_hybrid&w=740&q=80" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+a+CS+%26+Design+Student+%F0%9F%91%8B;Full+Stack+Dev+%7C+Spring+Boot+%2B+React;Quantum+ML+Researcher+%F0%9F%94%AC;Security+Scanner+Builder+%F0%9F%94%90;Building+Scalable+Systems+from+Coimbatore+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Senthur+Balaji+K+%F0%9F%91%8B;Computer+Science+and+Design+Student;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Designer+%F0%9F%8E%A8;Passionate+About+Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Senthur+Balaji+K+%F0%9F%91%8B;Computer+Science+and+Design+Student;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Designer+%F0%9F%8E%A8;Passionate+About+Building+Modern+Web+Applications" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -12,34 +14,41 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://miro.medium.com/1*LKx4KERu8OkRFySU6KpI4w.gif"/>
 
 ```java
 public class Developer {
 
-    private final String name       = "CS & Design Student";
-    private final String location   = "Coimbatore, Tamil Nadu, India 🇮🇳";
-    private final String degree     = "B.E. Computer Science and Design @ Karpagam CE";
-    private final String cgpa       = "8.6 / 10.0";
-    private final String email      = "your.email@gmail.com";
+    private final String name     = "Senthur Balaji K";
+    private final String location = "Coimbatore, Tamil Nadu, India";
+    private final String degree   = "B.E. Computer Science and Design @ Karpagam College of Engineering";
+    private final String cgpa     = "8.6 / 10.0";
+    private final String email    = "senthurbalaji846@gmail.com";
 
-    private final String[] stack = {
-        "Java", "Spring Boot", "React",
-        "Python", "Flask", "MySQL",
-        "MongoDB", "Docker", "Qiskit"
+    private final String[] techStack = {
+        "Java", "Spring Boot", "React.js",
+        "Python", "C", "C++",
+        "MySQL", "MongoDB", "Docker"
     };
 
     private final String[] currentlyLearning = {
-        "Quantum-Classical Hybrid ML",
-        "Microservices Architecture",
-        "Advanced System Design"
+        "Artificial Intelligence & Machine Learning",
+        "3D Modeling",
+        "Mobile Application Development"
+    };
+
+    private final String[] interests = {
+        "Full Stack Development",
+        "Frontend Design",
+        "Cybersecurity",
+        "Cloud Computing"
     };
 
     private final String funFact =
-        "I blend quantum circuits with neural nets 🔬";
+        "I enjoy building scalable applications and exploring AI-driven solutions 🚀";
 
     public String motto() {
-        return "Build secure. Build scalable. Build smart.";
+        return "Build Secure. Build Scalable. Build Smart.";
     }
 }
 ```
@@ -66,7 +75,6 @@ public class Developer {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Cloud & DevOps**
@@ -99,24 +107,19 @@ public class Developer {
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=senthurbalaji&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
 
 </div>
-
 ---
 
 ## 🔥 Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=senthurbalaji&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
@@ -124,9 +127,10 @@ public class Developer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/yourusername)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthurbalaji&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
+
 
 ---
 
@@ -134,7 +138,7 @@ public class Developer {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/yourusername)
+<img src="https://github-profile-trophy.vercel.app/?username=senthurbalaji&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -143,7 +147,7 @@ public class Developer {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🔬 Karpagam College of Engineering — Self-Initiated Researcher</b> &nbsp;|&nbsp; Sept 2024 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
+<summary><b>Karpagam College of Engineering — Computer Science and Design Student</b> &nbsp;|&nbsp; Sept 2024 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
 
 <br/>
 
@@ -164,9 +168,10 @@ public class Developer {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**🏙️ CityZen — Smart City Portal**](https://github.com/yourusername/cityzen) | `Spring Boot` `React` `MySQL` `MongoDB` `Docker` `WebSocket` `JWT` | Enterprise-grade grievance management system with JWT-based RBAC (Citizen / Staff / Admin), real-time WebSocket notifications, file uploads, and containerized deployment on Render + Vercel |
-| [**🔐 Vulnerability Scanner**](https://github.com/yourusername/vulnerability-scanner) | `Python` `Flask` `BeautifulSoup` `Requests` `PyJWT` `Gunicorn` | Automated web security scanner detecting SQLi, XSS, CSRF, Directory Traversal, Open Redirects & SSL/TLS flaws with structured HTML reports and production-ready PaaS deployment |
-| [**⚛️ Quantum Breast Cancer Detection**](https://github.com/yourusername/quantum-cancer-detection) | `Qiskit` `TensorFlow` `Python` `NumPy` `Pandas` | Hybrid VQC + CNN framework for breast cancer classification on CBIS-DDSM & BreakHis datasets — research publication in progress |
+| [**🏙️ CityZen — Smart City Portal**](https://github.com/senthurbalaji/Citizen_Portal) | `Spring Boot` `React` `MySQL` `MongoDB` `Docker` `WebSocket` `JWT` | Enterprise-grade grievance management system with JWT-based RBAC (Citizen / Staff / Admin), real-time WebSocket notifications, file uploads, and containerized deployment on Render + Vercel |
+| [**🔐 Vulnerability Scanner**](https://github.com/senthurbalaji/Vulnerability-Scanner-Security-Scanner-) | `Python` `Flask` `BeautifulSoup` `Requests` `PyJWT` `Gunicorn` | Automated web security scanner detecting SQLi, XSS, CSRF, Directory Traversal, Open Redirects & SSL/TLS flaws with structured HTML reports and production-ready PaaS deployment |
+| [**🎓 Mugan Foundation — Admissions Management System**](https://github.com/senthurbalaji/Mugan_Foundation_Consultancy) | `React.js` `Tailwind CSS` `Chart.js` `React Router` `Vite` | Client project developed for managing UG & PG admissions. Features include consultant CRM, lead conversion tracking, student enrollment management, staff performance analytics, batch management, automated email communication, secure role-based access, and responsive dashboards for administrators and consultants |
+
 
 </div>
 
@@ -175,14 +180,15 @@ public class Developer {
 ## 🏅 Achievements
 
 <div align="center">
-
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **Academic Excellence** | CGPA **8.6 / 10.0** — B.E. Computer Science & Design, Karpagam College of Engineering |
-| 📜 | **Higher Secondary Distinction** | **83.67%** — Computer Science stream, Sri Balaji Vidhyalaya Matric HSS, Trichy |
-| 🔬 | **Quantum Research** | Self-initiated quantum-classical hybrid research on breast cancer detection — paper in progress |
-| 🛡️ | **Security Engineering** | Built full-featured web vulnerability scanner detecting **6+ attack vectors** with automated reporting |
-| 🏗️ | **Full Stack Delivery** | Delivered CityZen — an enterprise portal with **3 roles**, real-time WebSocket, Docker + cloud deployment |
+|     | Achievement                     | Details                                                                                                                                            |
+| :-: | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  🏆 | **Idea Fusion 2024 Winner**     | Secured **1st Prize** at Idea Fusion 2024 organized by Karpagam Innovation Centre (KIC) for innovative project development and presentation        |
+|  🎓 | **Academic Excellence**         | Maintaining a CGPA of **8.6 / 10.0** in B.E. Computer Science and Design at Karpagam College of Engineering                                        |
+|  💼 | **Client Project Delivery**     | Successfully developed and delivered the **Mugan Foundation Admissions Management System**, a comprehensive CRM and student admission platform     |
+| 🛡️ | **Security Engineering**        | Built a web vulnerability scanner capable of identifying multiple security risks including XSS, SQL Injection, CSRF, and authentication flaws      |
+|  🚀 | **Full Stack Development**      | Developed enterprise-grade web applications using **Spring Boot, React, MySQL, MongoDB, and Docker** with responsive UI and secure authentication  |
+|  📚 | **Professional Certifications** | Completed multiple industry-oriented courses through **ICT Academy**, **NPTEL**, and internship-based learning programs                            |
+|  💻 | **Web Development Internship**  | Completed a Web Development Internship at **Elusium Academy**, gaining hands-on experience in frontend development and responsive web applications |
 
 </div>
 
@@ -195,7 +201,7 @@ public class Developer {
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | 🎓 B.E. Computer Science and Design | Karpagam College of Engineering, Coimbatore | 2023 – Present | **8.6 / 10.0 CGPA** |
-| 📘 Higher Secondary (Computer Science) | Sri Balaji Vidhyalaya Matric HSS, Trichy | 2022 – 2023 | **83.67%** |
+| 📘 Higher Secondary (Computer Science) | Sri Balaji Vidhyalaya Matric Higher Secondary School, Trichy | 2022 – 2023 | **83.67%** |
 
 </div>
 
@@ -217,9 +223,9 @@ public class Developer {
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senthurbalajik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/senthurbalaji)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:senthurbalaji846@gmail.com)
 
 *"Build secure. Build scalable. Build smart."*
 
