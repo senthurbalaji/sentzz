@@ -1,4 +1,4 @@
-<img src="https://img.magnific.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?semt=ais_hybrid&w=740&q=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Senthur%20Balaji%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Build%20Secure.%20Build%20Scalable.%20Build%20Smart.&descAlignY=55" width="100%"/>
 
 <div align="center">
 
